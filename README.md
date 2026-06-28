@@ -28,7 +28,7 @@ Explore the architecture and its killer commercial applications through the foll
   * *Details:* The theoretical foundation. Explains the redefined "Signal Cycle", cascading hardware/logic timers, and the four major physical coding paradigms.
   * *内容:* 技术理论底座。详述重构的“信号周期”、双轨级联计时器防抖机制，以及四大物理层编码解码范式。
 
-* ⚖️ **[3. 隐式通信4大核心方法-分案权利要求 (Claims)](./隐式通信4大核心方法-Claims/)**
+* ⚖️ **[3. 隐式通信4大核心方法-权利要求 (Claims)](./隐式通信4大核心方法-Claims/)**
   * *Details:* Legal boundaries detailing the decoding methods, asynchronous interaction, and signal boundary determination workflows.
   * *内容:* 法定专利保护边界，包含信息解码算法、异步信息交互系统及信号结束边界判定的底层拆解。
 
